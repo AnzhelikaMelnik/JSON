@@ -1,0 +1,9 @@
+{
+	"Name": "Anzhelika",
+	"Surname": "Melnik",
+	"Age": "27",
+	"Animals" : "Саt"
+		 { "Name": "Markiz",
+	       	 "Age": "15" },
+	"Salary": "2000 euro"
+}
